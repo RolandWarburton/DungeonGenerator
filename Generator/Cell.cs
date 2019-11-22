@@ -7,14 +7,17 @@ namespace MapGenerator
 {
     public class Cell
     {
-        private int _y;
-        private int _x;
+        private int _absx, _absy;
+        private int _relx, _rely;
         private char _value;
 
-        public Cell(int x, int y, char value)
+        public Cell (int absx, int absy, int relx, int rely, char value)
         {
-            _x = x;
-            _y = y;
+            // absolute position of cell
+            _absx = absx;
+            _absy = absy;
+            _relx = relx;
+            _rely = rely;
             _value = value;
         }
 
@@ -22,8 +25,10 @@ namespace MapGenerator
         {
             try
             {
-                Console.SetCursorPosition(_x, _y);
+                // put the cursor into the position of the cell
+                Console.SetCursorPosition(_absx, _absy);
                 Console.Write(_value);
+                Console.SetCursorPosition(0, 0);
             }
             catch (ArgumentOutOfRangeException e)
             {
@@ -32,8 +37,10 @@ namespace MapGenerator
             }
         }
 
-        public int X { get => _x; set => _x = value; }
-        public int Y { get => _y; set => _y = value; }
+        public int X { get => _absx; set => _absx = value; }
+        public int Y { get => _absy; set => _absy = value; }
+        public int RelX { get => _relx; set => _relx = value; }
+        public int RelY { get => _rely; set => _rely = value; }
         public char Value { get => _value; set => _value = value; }
     }
 }
