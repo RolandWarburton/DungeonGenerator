@@ -1,0 +1,8 @@
+C:\Users\Rowland\Desktop\Projects\mapGenerator\Generator\bin\Debug\netstandard2.0\Generator.deps.json
+C:\Users\Rowland\Desktop\Projects\mapGenerator\Generator\bin\Debug\netstandard2.0\Generator.dll
+C:\Users\Rowland\Desktop\Projects\mapGenerator\Generator\bin\Debug\netstandard2.0\Generator.pdb
+C:\Users\Rowland\Desktop\Projects\mapGenerator\Generator\obj\Debug\netstandard2.0\Generator.csprojAssemblyReference.cache
+C:\Users\Rowland\Desktop\Projects\mapGenerator\Generator\obj\Debug\netstandard2.0\Generator.AssemblyInfoInputs.cache
+C:\Users\Rowland\Desktop\Projects\mapGenerator\Generator\obj\Debug\netstandard2.0\Generator.AssemblyInfo.cs
+C:\Users\Rowland\Desktop\Projects\mapGenerator\Generator\obj\Debug\netstandard2.0\Generator.dll
+C:\Users\Rowland\Desktop\Projects\mapGenerator\Generator\obj\Debug\netstandard2.0\Generator.pdb

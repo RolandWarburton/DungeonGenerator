@@ -1,0 +1,14 @@
+C:\Users\Rowland\Desktop\Projects\mapGenerator\MapGenerator\bin\Debug\netcoreapp3.0\MapGenerator.exe
+C:\Users\Rowland\Desktop\Projects\mapGenerator\MapGenerator\bin\Debug\netcoreapp3.0\MapGenerator.deps.json
+C:\Users\Rowland\Desktop\Projects\mapGenerator\MapGenerator\bin\Debug\netcoreapp3.0\MapGenerator.runtimeconfig.json
+C:\Users\Rowland\Desktop\Projects\mapGenerator\MapGenerator\bin\Debug\netcoreapp3.0\MapGenerator.runtimeconfig.dev.json
+C:\Users\Rowland\Desktop\Projects\mapGenerator\MapGenerator\bin\Debug\netcoreapp3.0\MapGenerator.dll
+C:\Users\Rowland\Desktop\Projects\mapGenerator\MapGenerator\bin\Debug\netcoreapp3.0\MapGenerator.pdb
+C:\Users\Rowland\Desktop\Projects\mapGenerator\MapGenerator\bin\Debug\netcoreapp3.0\Generator.dll
+C:\Users\Rowland\Desktop\Projects\mapGenerator\MapGenerator\bin\Debug\netcoreapp3.0\Generator.pdb
+C:\Users\Rowland\Desktop\Projects\mapGenerator\MapGenerator\obj\Debug\netcoreapp3.0\MapGenerator.csprojAssemblyReference.cache
+C:\Users\Rowland\Desktop\Projects\mapGenerator\MapGenerator\obj\Debug\netcoreapp3.0\MapGenerator.AssemblyInfoInputs.cache
+C:\Users\Rowland\Desktop\Projects\mapGenerator\MapGenerator\obj\Debug\netcoreapp3.0\MapGenerator.AssemblyInfo.cs
+C:\Users\Rowland\Desktop\Projects\mapGenerator\MapGenerator\obj\Debug\netcoreapp3.0\MapGenerator.csproj.CopyComplete
+C:\Users\Rowland\Desktop\Projects\mapGenerator\MapGenerator\obj\Debug\netcoreapp3.0\MapGenerator.dll
+C:\Users\Rowland\Desktop\Projects\mapGenerator\MapGenerator\obj\Debug\netcoreapp3.0\MapGenerator.pdb
